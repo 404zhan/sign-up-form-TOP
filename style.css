@@ -1,0 +1,62 @@
+@font-face{
+    font-family: norse-bold;
+    src: url(Norse-Bold.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: left;
+}
+
+p{
+    font-size: 1.3em;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+#para2{
+    margin-top: 30px;
+}
+
+.third button{
+    color: white;
+    background-color: #596D48;
+    margin-left: 50px;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.third p{
+    font-size: small;
+    margin-top: 30px;
+}
+
+
+
+
+
+
