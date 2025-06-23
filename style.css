@@ -41,6 +41,13 @@ p{
     margin-top: 30px;
 }
 
+#form1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .third button{
     color: white;
     background-color: #596D48;
